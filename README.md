@@ -1,26 +1,242 @@
 <h1 align="center">Hi 👋, I'm Inhamullah Khan</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=inham-ullah-khan&label=Profile%20views&color=0e75b6&style=flat" alt="inham-ullah-khan" /> </p>
+<h3 align="center">
+  Full-Stack Developer • MERN Stack • AI/ML Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inham-ullah-khan" alt="inham-ullah-khan" /></a> </p>
-
-- 🔭 I’m currently working on [CodeRefactorAI](https://github.com/INHAM-ULLAH-KHAN/CodeRefactorAI)
-
-- 🌱 I’m currently learning **MERN Stack With AI/ML**
-
-- 📫 How to reach me **codewithinhamullah@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/inhamullah-khan-674428263/?isselfprofile=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/inhamullah-khan-674428263/?isselfprofile=true" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/INHAM-ULLAH-KHAN">
+    <img src="https://komarev.com/ghpvc/?username=INHAM-ULLAH-KHAN&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/INHAM-ULLAH-KHAN?tab=followers">
+    <img src="https://img.shields.io/github/followers/INHAM-ULLAH-KHAN?label=Followers&style=flat" alt="GitHub Followers" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inham-ullah-khan&show_icons=true&locale=en&layout=compact" alt="inham-ullah-khan" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inham-ullah-khan&show_icons=true&locale=en" alt="inham-ullah-khan" /></p>
+I'm a **Computer Science graduate and aspiring Full-Stack Developer** from Pakistan, passionate about building practical software solutions using modern web technologies and Artificial Intelligence.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inham-ullah-khan&" alt="inham-ullah-khan" /></p>
+* 🔭 Currently working on **[CodeRefactorAI](https://github.com/INHAM-ULLAH-KHAN/CodeRefactorAI)**
+* 🌱 Currently learning **MERN Stack + AI/ML**
+* 🤖 Interested in **Artificial Intelligence, Machine Learning & Generative AI**
+* 💻 Passionate about **Web Development and Problem Solving**
+* 🚀 Building projects that combine **AI + Web Technologies**
+* 📚 Continuously improving my programming and software engineering skills
+* 📫 Reach me at **[codewithinhamullah@gmail.com](mailto:codewithinhamullah@gmail.com)**
+
+---
+
+## 🧠 Current Focus
+
+```text
+MERN Stack        ███████████████████░   90%
+JavaScript        ██████████████████░░   85%
+React             █████████████████░░░   80%
+Node.js / Express ████████████████░░░░   75%
+Python            ███████████████░░░░░   70%
+Machine Learning  █████████████░░░░░░░   65%
+AI / GenAI        ████████████░░░░░░░░   60%
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,html,css" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+<h3 align="center">🤖 CodeRefactorAI</h3>
+
+<p align="center">
+AI-powered code analysis and refactoring project designed to help developers improve their code quality.
+</p>
+
+<p align="center">
+<a href="https://github.com/INHAM-ULLAH-KHAN/CodeRefactorAI">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🌐 More Projects</h3>
+
+<p align="center">
+Explore my repositories to see my experiments, learning projects, web applications and AI/ML work.
+</p>
+
+<p align="center">
+<a href="https://github.com/INHAM-ULLAH-KHAN?tab=repositories">
+<img src="https://img.shields.io/badge/View%20Repositories-0e75b6?style=for-the-badge&logo=github"/>
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+> 💡 **Tip:** Pin your best 4–6 repositories on your GitHub profile so recruiters see your strongest work immediately.
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=INHAM-ULLAH-KHAN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INHAM-ULLAH-KHAN&layout=compact&langs_count=8&hide_border=true" />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=INHAM-ULLAH-KHAN&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INHAM-ULLAH-KHAN&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/INHAM-ULLAH-KHAN/INHAM-ULLAH-KHAN/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+
+<img src="https://img.shields.io/github/repos/INHAM-ULLAH-KHAN?style=for-the-badge&label=Repositories" />
+
+<img src="https://img.shields.io/github/stars/INHAM-ULLAH-KHAN?style=for-the-badge&label=Total%20Stars" />
+
+<img src="https://img.shields.io/github/followers/INHAM-ULLAH-KHAN?style=for-the-badge&label=Followers" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=INHAM-ULLAH-KHAN&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+</p>
+
+---
+
+# 📚 Currently Learning
+
+```text
+┌──────────────────────────────────────────────┐
+│              CURRENT LEARNING                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ⚛️  React & Modern Frontend Development    │
+│  🟢  Node.js & Express                      │
+│  🍃  MongoDB                                │
+│  🐍  Python for AI/ML                       │
+│  🧠  Machine Learning                       │
+│  🤖  Artificial Intelligence                │
+│  ✨  Generative AI                          │
+│  🐳  Docker & Deployment                    │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🎯 2026 Goals
+
+* 🚀 Become a strong **Full-Stack MERN Developer**
+* 🤖 Build production-ready **AI-powered applications**
+* 🧠 Improve my **Machine Learning & Deep Learning** skills
+* 🌐 Build and deploy real-world web applications
+* 📦 Create more open-source projects
+* 💼 Contribute to professional software projects
+* 📈 Maintain consistent GitHub contributions
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/inhamullah-khan-674428263/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:codewithinhamullah@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/INHAM-ULLAH-KHAN">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  💻 Build. Learn. Solve. Repeat. 🚀
+</h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
