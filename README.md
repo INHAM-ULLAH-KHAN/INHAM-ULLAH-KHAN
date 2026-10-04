@@ -121,8 +121,6 @@ Explore my repositories to see my experiments, learning projects, web applicatio
 </tr>
 </table>
 
-> 💡 **Tip:** Pin your best 4–6 repositories on your GitHub profile so recruiters see your strongest work immediately.
-
 ---
 
 # 📊 GitHub Analytics
@@ -134,29 +132,6 @@ Explore my repositories to see my experiments, learning projects, web applicatio
 
 ---
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=INHAM-ULLAH-KHAN&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=INHAM-ULLAH-KHAN&theme=github-compact&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
-
----
-
-# 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/INHAM-ULLAH-KHAN/INHAM-ULLAH-KHAN/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-</p>
-
----
 
 # 📊 GitHub Metrics
 
