@@ -133,27 +133,6 @@ Explore my repositories to see my experiments, learning projects, web applicatio
 ---
 
 
-# 📊 GitHub Metrics
-
-<p align="center">
-
-<img src="https://img.shields.io/github/repos/INHAM-ULLAH-KHAN?style=for-the-badge&label=Repositories" />
-
-<img src="https://img.shields.io/github/stars/INHAM-ULLAH-KHAN?style=for-the-badge&label=Total%20Stars" />
-
-<img src="https://img.shields.io/github/followers/INHAM-ULLAH-KHAN?style=for-the-badge&label=Followers" />
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=INHAM-ULLAH-KHAN&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
-</p>
-
----
 
 # 📚 Currently Learning
 
